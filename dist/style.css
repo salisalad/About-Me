@@ -1,0 +1,32 @@
+h1{
+  font: optima;
+  font-size: 40px;
+  font-style: bold;
+  display: flex;
+  justify-content:center;
+  border-style: dotted double;
+  border-color: #cc5200;
+  border-width:7px;
+}
+
+img{
+ border-radius:70%;
+  width: 50%;
+  size:40px;
+  border-style:dotted double;
+  border-color: #cc5200;
+  border-width: 3.5px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;T
+  width: 
+    
+}
+
+body{
+  background-color: #F69160;
+  font: optima;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;T
+}
