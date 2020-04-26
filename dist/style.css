@@ -9,6 +9,64 @@ h1{
   border-width:7px;
 }
 
+body{
+  background-color: #F69160;
+  font: optima;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;T
+  text-align: center;
+}
+
+h2{
+    font: optima;
+    font-size: 30px;
+    font-style: bold;
+    display: flex;
+    justify-content:center;
+    border-style: dotted double;
+    border-color: #cc5200;
+    border-width:4px;
+
+}
+h3{
+  font: optima;
+  font-size: 25px;
+  font-style: bold;
+  display: flex;
+  justify-content:center;
+  border-style: dotted double;
+  border-color: #cc5200;
+  border-width:4px;
+}
+
+span{
+  font: optima;
+  font-size: 20px;
+  font-style: bold;
+  display: flex;
+  justify-content:center;
+  border-style: double;
+  border-color: #cc5200;
+  border-width:5px;
+}
+
+ul{
+  text-align: left;
+  font: optima;
+  font-size: 14px
+  font-style: italic;
+  text-align: left;
+}
+
+ol{
+  text-align: left;
+  font: optima;
+  font-size: 14px
+  font-style: italic;
+  text-align: left;
+}
+
 img{
  border-radius:70%;
   width: 50%;
@@ -17,16 +75,6 @@ img{
   border-color: #cc5200;
   border-width: 3.5px;
 display: block;
-  margin-left: auto;
-  margin-right: auto;T
-  width: 
-    
-}
-
-body{
-  background-color: #F69160;
-  font: optima;
-  display: block;
   margin-left: auto;
   margin-right: auto;T
 }
